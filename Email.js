@@ -12,6 +12,7 @@ function hideLoadingIndicator() {
 
 
 function sendEmail() {
+function sendEmail() {?
     try {
         showLoadingIndicator();
 
